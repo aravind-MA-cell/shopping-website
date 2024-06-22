@@ -7,7 +7,6 @@ import Sidebar from './Sidebar/Sidebar';
 
 // Database
 import  products from './db/data'
-import Category from './Sidebar/Category/Category';
 import Card from './components/Card';
 
 function App() {
